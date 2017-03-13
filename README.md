@@ -1,5 +1,5 @@
 #PHP Forum
-##A PHP / MySQL Forum based on (https://code.tutsplus.com/tutorials/how-to-create-a-phpmysql-powered-forum-from-scratch--net-10188)[This Tutorial]
+##A PHP / MySQL Forum based on [This Tutorial](https://code.tutsplus.com/tutorials/how-to-create-a-phpmysql-powered-forum-from-scratch--net-10188) 
 ##Some of the Technologies user Include:
 -[HTML5](https://en.wikipedia.org/wiki/HTML5)
 
